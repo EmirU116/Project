@@ -9,7 +9,7 @@ namespace P6ReadingInput
             string name;
             Console.WriteLine("Hey, What is your name?: ");
             name = Console.ReadLine();
-            Console.WriteLine(name);
+            Console.WriteLine("My name is " + name);
 
         }
     }
