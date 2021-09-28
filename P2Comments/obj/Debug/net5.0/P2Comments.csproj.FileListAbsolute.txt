@@ -1,0 +1,16 @@
+C:\Project\P2Comments\bin\Debug\net5.0\P2Comments.exe
+C:\Project\P2Comments\bin\Debug\net5.0\P2Comments.deps.json
+C:\Project\P2Comments\bin\Debug\net5.0\P2Comments.runtimeconfig.json
+C:\Project\P2Comments\bin\Debug\net5.0\P2Comments.runtimeconfig.dev.json
+C:\Project\P2Comments\bin\Debug\net5.0\P2Comments.dll
+C:\Project\P2Comments\bin\Debug\net5.0\ref\P2Comments.dll
+C:\Project\P2Comments\bin\Debug\net5.0\P2Comments.pdb
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.csproj.AssemblyReference.cache
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.AssemblyInfoInputs.cache
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.AssemblyInfo.cs
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.csproj.CoreCompileInputs.cache
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.dll
+C:\Project\P2Comments\obj\Debug\net5.0\ref\P2Comments.dll
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.pdb
+C:\Project\P2Comments\obj\Debug\net5.0\P2Comments.genruntimeconfig.cache
