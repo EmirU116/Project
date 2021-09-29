@@ -1,0 +1,16 @@
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.csproj.AssemblyReference.cache
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.AssemblyInfoInputs.cache
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.AssemblyInfo.cs
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.csproj.CoreCompileInputs.cache
+C:\Project\Project\P9Strings\bin\Debug\net5.0\P9Strings.exe
+C:\Project\Project\P9Strings\bin\Debug\net5.0\P9Strings.deps.json
+C:\Project\Project\P9Strings\bin\Debug\net5.0\P9Strings.runtimeconfig.json
+C:\Project\Project\P9Strings\bin\Debug\net5.0\P9Strings.runtimeconfig.dev.json
+C:\Project\Project\P9Strings\bin\Debug\net5.0\P9Strings.dll
+C:\Project\Project\P9Strings\bin\Debug\net5.0\ref\P9Strings.dll
+C:\Project\Project\P9Strings\bin\Debug\net5.0\P9Strings.pdb
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.dll
+C:\Project\Project\P9Strings\obj\Debug\net5.0\ref\P9Strings.dll
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.pdb
+C:\Project\Project\P9Strings\obj\Debug\net5.0\P9Strings.genruntimeconfig.cache
