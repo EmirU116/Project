@@ -1,0 +1,16 @@
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.csproj.AssemblyReference.cache
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.AssemblyInfoInputs.cache
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.AssemblyInfo.cs
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.csproj.CoreCompileInputs.cache
+C:\Project\Project\10Boolean\bin\Debug\net5.0\10Boolean.exe
+C:\Project\Project\10Boolean\bin\Debug\net5.0\10Boolean.deps.json
+C:\Project\Project\10Boolean\bin\Debug\net5.0\10Boolean.runtimeconfig.json
+C:\Project\Project\10Boolean\bin\Debug\net5.0\10Boolean.runtimeconfig.dev.json
+C:\Project\Project\10Boolean\bin\Debug\net5.0\10Boolean.dll
+C:\Project\Project\10Boolean\bin\Debug\net5.0\ref\10Boolean.dll
+C:\Project\Project\10Boolean\bin\Debug\net5.0\10Boolean.pdb
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.dll
+C:\Project\Project\10Boolean\obj\Debug\net5.0\ref\10Boolean.dll
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.pdb
+C:\Project\Project\10Boolean\obj\Debug\net5.0\10Boolean.genruntimeconfig.cache
